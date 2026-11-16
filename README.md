@@ -176,17 +176,3 @@ mcp run src/mcp_server.py
 }
 
 ```
-
-```
-
----
-
-### How to Push This Updated `README.md` to Your GitHub Repo
-1. Replace the contents of `README.md` inside your local `enterprise-email-classifier-mcp` folder with the Markdown above.
-2. Run:
-   ```bash
-   git add README.md
-   git commit -m "docs: add architecture diagram, HITL routing matrix, and sample MCP payload to README"
-   git push origin main
-
-```
