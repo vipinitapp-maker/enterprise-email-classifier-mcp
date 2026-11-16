@@ -130,8 +130,3 @@ If an interviewer asks you to draw or explain your **YantramOps** architecture o
 
 
 
-
-
----
-
-Would you like to **do a live mock technical + engineering manager interview** (where I ask you 5–6 realistic questions one by one and coach your answers), or would you like to **generate your final `Vipin_Tiwari_Resume_2026-v3.docx` with your live GitHub link embedded**?
