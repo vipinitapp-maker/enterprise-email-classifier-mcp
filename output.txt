@@ -1,0 +1,49 @@
+python src/inference.py
+DPDP Erasure Request -> {
+  "category": "DPDP_Compliance_Request",
+  "confidence": 1.0,
+  "llm_token_count": 20,
+  "target_agent": "lexguard_compliance_agent",
+  "requires_hitl_gate": true,
+  "cache_hit": false
+}
+Production Export Outage -> {
+  "category": "Customer_Escalation",
+  "confidence": 0.9953,
+  "llm_token_count": 19,
+  "target_agent": "priority_support_agent",
+  "requires_hitl_gate": false,
+  "cache_hit": false
+}
+SOC Alert -> {
+  "category": "Security_Incident",
+  "confidence": 1.0,
+  "llm_token_count": 17,
+  "target_agent": "aiops_soc_sentinel_agent",
+  "requires_hitl_gate": true,
+  "cache_hit": false
+}
+DPDP Erasure Request -> {
+  "category": "DPDP_Compliance_Request",
+  "confidence": 1.0,
+  "llm_token_count": 20,
+  "target_agent": "lexguard_compliance_agent",
+  "requires_hitl_gate": true,
+  "cache_hit": false
+}
+Production Export Outage -> {
+  "category": "Customer_Escalation",
+  "confidence": 0.9953,
+  "llm_token_count": 19,
+  "target_agent": "priority_support_agent",
+  "requires_hitl_gate": false,
+  "cache_hit": false
+}
+SOC Alert -> {
+  "category": "Security_Incident",
+  "confidence": 1.0,
+  "llm_token_count": 17,
+  "target_agent": "aiops_soc_sentinel_agent",
+  "requires_hitl_gate": true,
+  "cache_hit": false
+}
