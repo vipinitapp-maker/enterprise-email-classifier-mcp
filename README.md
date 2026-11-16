@@ -1,11 +1,3 @@
-Your current `README.md` is clean, well-structured, and gives a clear quickstart. However, for **Staff AI Architect** and **AI Engineering Manager** roles, hiring managers and technical interviewers inspecting your GitHub look for **system architecture diagrams, routing/HITL decision policies, model architecture specs, Optuna search spaces, and sample MCP tool I/O** so they can evaluate your engineering depth in 30 seconds without opening every `.py` file.
-
-Below is a polished, drop-in replacement for your `README.md` that adds an ASCII system architecture diagram, an explicit agent routing & HITL policy table, model/MLOps configuration details, and sample JSON input/output for the MCP tool.
-
----
-
-### Enhanced `README.md` (Copy-Paste Ready)
-
 ```markdown
 # Enterprise Email Classification & Deep Learning Triage Pipeline (PyTorch + Optuna + MLflow + MCP)
 
